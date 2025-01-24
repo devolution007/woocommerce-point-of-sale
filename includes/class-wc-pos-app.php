@@ -239,7 +239,7 @@ class WC_POS_App {
 			[
 				'billing_first_name',
 				'billing_last_name',
-				
+				'billing_email',
 			]
 		);
 
